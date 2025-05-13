@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "keyword": "hello",
+    "translations": {
+      "en": "Hello",
+      "fa": "سلام"
+    }
+  },
+  {
+    "id": "2",
+    "keyword": "goodbye",
+    "translations": {
+      "en": "Goodbye",
+      "fa": "خداحافظ"
+    }
+  },
+  {
+    "id": "3",
+    "keyword": "thank",
+    "translations": {
+      "en": "Thank you",
+      "fa": "ممنون"
+    }
+  },
+  {
+    "id": "4",
+    "keyword": "yes",
+    "translations": {
+      "en": "Yes",
+      "fa": "بله"
+    }
+  },
+  {
+    "id": "5",
+    "keyword": "no",
+    "translations": {
+      "en": "No",
+      "fa": "نه"
+    }
+  },
+  {
+    "id": "6",
+    "keyword": "please",
+    "translations": {
+      "en": "Please",
+      "fa": "لطفاً"
+    }
+  },
+  {
+    "id": "7",
+    "keyword": "sorry",
+    "translations": {
+      "en": "Sorry",
+      "fa": "ببخشید"
+    }
+  },
+  {
+    "id": "8",
+    "keyword": "how",
+    "translations": {
+      "en": "How",
+      "fa": "چطور"
+    }
+  },
+  {
+    "id": "9",
+    "keyword": "why",
+    "translations": {
+      "en": "Why",
+      "fa": "چرا"
+    }
+  },
+  {
+    "id": "10",
+    "keyword": "when",
+    "translations": {
+      "en": "When",
+      "fa": "چه زمانی"
+    }
+  },
+  {
+    "id": "11",
+    "keyword": "where",
+    "translations": {
+      "en": "Where",
+      "fa": "کجا"
+    }
+  },
+  {
+    "id": "12",
+    "keyword": "what",
+    "translations": {
+      "en": "What",
+      "fa": "چه چیزی"
+    }
+  },
+  {
+    "id": "13",
+    "keyword": "who",
+    "translations": {
+      "en": "Who",
+      "fa": "چه کسی"
+    }
+  },
+  {
+    "id": "14",
+    "keyword": "help",
+    "translations": {
+      "en": "Help",
+      "fa": "کمک"
+    }
+  },
+  {
+    "id": "15",
+    "keyword": "water",
+    "translations": {
+      "en": "Water",
+      "fa": "آب"
+    }
+  },
+  {
+    "id": "16",
+    "keyword": "food",
+    "translations": {
+      "en": "Food",
+      "fa": "غذا"
+    }
+  },
+  {
+    "id": "17",
+    "keyword": "friend",
+    "translations": {
+      "en": "Friend",
+      "fa": "دوست"
+    }
+  },
+  {
+    "id": "18",
+    "keyword": "family",
+    "translations": {
+      "en": "Family",
+      "fa": "خانواده"
+    }
+  },
+  {
+    "id": "19",
+    "keyword": "home",
+    "translations": {
+      "en": "Home",
+      "fa": "خانه"
+    }
+  },
+  {
+    "id": "20",
+    "keyword": "school",
+    "translations": {
+      "en": "School",
+      "fa": "مدرسه"
+    }
+  },
+  {
+    "id": "21",
+    "keyword": "work",
+    "translations": {
+      "en": "Work",
+      "fa": "کار"
+    }
+  },
+  {
+    "id": "22",
+    "keyword": "love",
+    "translations": {
+      "en": "Love",
+      "fa": "عشق"
+    }
+  },
+  {
+    "id": "23",
+    "keyword": "happy",
+    "translations": {
+      "en": "Happy",
+      "fa": "خوشحال"
+    }
+  },
+  {
+    "id": "24",
+    "keyword": "sad",
+    "translations": {
+      "en": "Sad",
+      "fa": "ناراحت"
+    }
+  },
+  {
+    "id": "25",
+    "keyword": "fast",
+    "translations": {
+      "en": "Fast",
+      "fa": "سریع"
+    }
+  },
+  {
+    "id": "26",
+    "keyword": "slow",
+    "translations": {
+      "en": "Slow",
+      "fa": "کند"
+    }
+  },
+  {
+    "id": "27",
+    "keyword": "hot",
+    "translations": {
+      "en": "Hot",
+      "fa": "داغ"
+    }
+  },
+  {
+    "id": "28",
+    "keyword": "cold",
+    "translations": {
+      "en": "Cold",
+      "fa": "سرد"
+    }
+  },
+  {
+    "id": "29",
+    "keyword": "morning",
+    "translations": {
+      "en": "Morning",
+      "fa": "صبح"
+    }
+  },
+  {
+    "id": "30",
+    "keyword": "night",
+    "translations": {
+      "en": "Night",
+      "fa": "شب"
+    }
+  }
+]
