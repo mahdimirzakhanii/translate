@@ -2,11 +2,12 @@ import { useContext, useState } from "react";
 import ModalWords from "./ModalWords";
 import { DataContext } from "../../context/DataContext";
 const Words = () => {
-  const { fullData  } = useContext(DataContext);
+  const { fullData } = useContext(DataContext);
   const [showModal, setShowModal] = useState<boolean>(false);
   const [idWords, setIdWords] = useState<string | null>(null);
   const selectedLang = JSON.parse(localStorage.getItem("lang") || "null");
   const [selectLang, setSelectLang] = useState<"en" | "fa">(selectedLang);
+  console.log(fullData);
   return (
     <div className="flex flex-col w-[500px] h-[700px] items-center rounded-lg p-3 inset-shadow-lg bg-white/10  gap-5">
       <div className="flex items-center w-full justify-between">

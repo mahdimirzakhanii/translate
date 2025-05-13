@@ -23,13 +23,17 @@ export const DataContext = createContext<IDataContext>({
 
 export const DataProvider = ({ children }: IChild) => {
   const [fullData, setFullData] = useState<IData[]>([]);
-  const getData = JSON.parse(localStorage.getItem("data") || "null");
+
   useEffect(() => {
-    if (!data) {
-      localStorage.setItem("data", JSON?.stringify(data));
+    const getData = JSON.parse(localStorage.getItem("data") || "null");
+
+    if (getData) {
+      setFullData(getData);
+    } else {
+      localStorage.setItem("data", JSON.stringify(data));
+      setFullData(data);
     }
-    setFullData(getData);
-  }, [data]);
+  }, []);
 
   return (
     <DataContext.Provider value={{ fullData, setFullData }}>
